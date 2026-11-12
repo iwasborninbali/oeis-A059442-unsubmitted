@@ -1,0 +1,5 @@
+T(216,74): 18420969414
+fence bound: 2707882503933
+sufficient integer inequality: True
+bit lengths: 3058 3059
+PASS

@@ -1,0 +1,3 @@
+# Prior art and credit
+
+On 2026-11-13, `https://oeis.org/search?q=id:A059442&fmt=text` returned one entry, retaining Jianglin Luo's 2024 conjecture. Paul Erdős, *Some remarks on the theory of graphs*, Bulletin of the American Mathematical Society 53 (1947), 292–294, established the probabilistic Ramsey lower-bound method. The reviewed answer also cites Shayan Oveis Gharan, *Introduction to the Probabilistic Method* (2025), for the first-moment criterion. These literature descriptions follow the reviewed answer; the documents were not independently re-read here. ChatGPT applied the method to the fence bound; Claude Code reviewed it. A search for earlier applications was not exhaustive.
