@@ -26,7 +26,10 @@ No explicit colouring is constructed. The all-large-indices proof uses the class
 
 ## Guide's independent check
 
-pending
+12 November 2026: the guide reviewed the answer this repository is built from and recorded the verdict in
+[athanor-oeis tasks/README.md](https://github.com/iwasborninbali/athanor-oeis/blob/main/tasks/README.md): REFUTED at m = n = 74 by Erdos's 1947 bound; the guide checked the exact computation.
+The write-up in this repository (`proof.md` and the programs, prepared by a Codex core on 13 November 2026) has not yet been
+re-read by the guide; until it is, this record stays a candidate.
 
 ## Verdict
 
