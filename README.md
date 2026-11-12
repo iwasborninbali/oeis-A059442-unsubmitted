@@ -1,7 +1,11 @@
 # OEIS A059442: Fence conjecture counterexample (not yet submitted)
 
 <!-- oeis-status:begin -->
-**OEIS status: not submitted.** (replaced by the registry tool)
+**OEIS status: not submitted** (lab registry, 13 Nov 2026).
+
+- [A059442](https://oeis.org/A059442), Fence conjecture fails at m = n = 74 (Erdos 1947): **candidate** (2026-11-13: repository built (core c5)). Certificate: complete.
+
+Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
 <!-- oeis-status:end -->
 
 ## Definition
