@@ -1,0 +1,19 @@
+method: Euler generalized pentagonal partition recurrence;
+        subtract partitions with a unique part greater than k
+        for T(3k-6,k); exact integer binomial first-moment comparison
+range: all diagonal k = 3..1200 (inclusive)
+known exact Ramsey pairs: 9/9 proposed upper-bound checks pass
+known pairs (m,n,R,B,passes): [(3, 3, 6, 9, True), (3, 4, 9, 9, True), (3, 5, 14, 14, True), (3, 6, 18, 19, True), (3, 7, 23, 24, True), (3, 8, 28, 29, True), (3, 9, 36, 39, True), (4, 4, 18, 19, True), (4, 5, 25, 26, True)]
+T(216,74): 18420969414
+B(74,74): 2707882503933
+expected bad cliques floor(10^12 * E): 517687461224
+E(74)<1: True
+stronger 2*B^74 < 74! * 2^2701: True
+stronger 74 inequality bit-lengths: 3058 3059
+T(282,96): 1171023653997
+B(96,96): 223665517913524
+first moment fails for k=3..73: True
+first moment passes for EVERY k=74..1200: True
+passing indices: first=74, last=1200, count=1127
+elapsed_seconds: 2.233
+PASS
